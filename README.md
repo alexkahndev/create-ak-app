@@ -30,8 +30,6 @@ bun run dev
 
 ## Helpful Resources
 
-If you have any additional questions feel free to reach out to me on [Twitter](https://twitter.com/asleepace) or dropping me an email at colin@asleepace.com :)
-
 - [How to server static files with Elysia](https://elysiajs.com/plugins/static.html)
 - [How to create a simple website with Elysia](https://elysiajs.com/quick-start.html)
 - [How to configure Bun with DOM types](https://stackoverflow.com/a/75726039/4326715)
